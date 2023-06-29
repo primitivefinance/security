@@ -16,6 +16,6 @@ Please email security@primitive.xyz.
 | rmm-core     | Dedaub        | [View](./audits/rmm-core/dedaub.pdf)                   | October 18, 2021  | 4     |
 | rmm-core     | Sherlock      | [View](./audits/rmm-core/sherlock.pdf)                 | October 30, 2021  | 4     |
 | rmm-core     | Trail of Bits | [View](./audits/rmm-core/trailofbits.pdf)              | February 28, 2022 | 8     |
-| Portfolio    | ChainSecurity | to add                                                 | June 14, 2022     | 8     |
+| Portfolio    | ChainSecurity | [View](./audits/portfolio/chainsecurity.pdf)           | June 14, 2022     | 8     |
 | Portfolio    | Trail of Bits | [View](./audits/portfolio/trailofbits.pdf)             | January 31, 2023  | 8     |
-| Portfolio    | Spearbit      | to add                                                 | April 1, 2023     | 5     |
+| Portfolio    | Spearbit      | [View](./audits/portfolio/spearbit.pdf)                | March 31, 2023    | 5 + 2 |
